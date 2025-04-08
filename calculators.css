@@ -45,7 +45,8 @@ header .logo {
     align-items: center;
     padding-left: 0.7em;
     font-size: 3.5vw;
-    font-weight: 400;
+    font-weight: 800;
+    letter-spacing: 2px;
 }
 header nav {
     height: 100%;
